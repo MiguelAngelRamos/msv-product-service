@@ -16,7 +16,6 @@ import com.kibernumacademy.productservice.client.PricingClient;
 import com.kibernumacademy.productservice.model.Product;
 import com.kibernumacademy.productservice.service.ProductService;
 
-import feign.Response;
 import io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker;
 
 @RestController

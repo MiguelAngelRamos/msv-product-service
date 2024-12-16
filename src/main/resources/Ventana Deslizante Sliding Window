@@ -1,0 +1,8 @@
+Ventana Deslizante Sliding Window
+
+COUNT_BASED (Esta basado en conteos)
+TIME_BASED (Basado en tiempo)
+
+sliding-window-type: COUNT_BASED
+sliding-window-size: 10
+failure-rate-threshold: 50
